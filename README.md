@@ -1,2 +1,1 @@
-# dsseminario
-Repositorio de Ejemplo para el seminario
+me ando por las ramas
